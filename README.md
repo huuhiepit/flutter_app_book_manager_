@@ -1,6 +1,6 @@
-# app_book
+# app_book_manager_flutter
 
-A new Flutter project.
+Bài làm thi môn Lập trình ứng dụng Android của Nguyễn Hữu Hiệp.
 
 ## Getting Started
 
