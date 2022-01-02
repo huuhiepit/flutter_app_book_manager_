@@ -1,6 +1,6 @@
 # app_book_manager_flutter
 
-Bài làm thi môn Lập trình ứng dụng Android của Nguyễn Hữu Hiệp.
+Bài làm thi môn Lập trình ứng dụng Android của Nguyễn Hữu Hiệp - 18T1021093.
 
 ## Getting Started
 
